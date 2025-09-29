@@ -1,0 +1,5 @@
+sentence = input("Enter a sentence: ")
+word_vowel_counts= sum(1 for char in sentence.lower() if char in 'aeiou')
+word_consonant_counts= sum(1 for char in sentence.lower() if char.isalpha() and char  not in 'aeiou') 
+print("Counts of vowel in each word: ",word_vowel_counts)
+print("Counts of consonant in each word: ",word_consonant_counts)
