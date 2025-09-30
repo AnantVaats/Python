@@ -1,0 +1,22 @@
+1. Mathematical Functions:
+    abs(), min, max, pow, sum, round, divmod
+
+2.Conversion Functions:
+    int, float, str, bool, chr, ord, hex, oct
+
+3.Sequence Functions:
+    len, sorted, enumerate, reversed, zip
+
+4.Input and Output Functions:
+    input, print, open
+
+5. Iterator Functions:
+    iter, next
+
+6. Type checking and Conversion Functions:
+     type, isinstacne
+
+7. Object Attribute Functions
+    getattr, setattr, hasattr,
+
+dir -> 
